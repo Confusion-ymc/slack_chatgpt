@@ -1,0 +1,3 @@
+slack_bolt==1.17.2
+loguru==0.7.0
+revChatGPT==4.2.4
