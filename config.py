@@ -1,8 +1,8 @@
 import os
 
-SLACK_BOT_TOKEN = os.getenv("SLACK_BOT_TOKEN")
-SLACK_APP_TOKEN = os.getenv("SLACK_APP_TOKEN")
+SLACK_BOT_TOKEN = os.getenv("SLACK_BOT_TOKEN")  # 'xoxb-26122511305-5129800647636-2PH3jwRLvz41Stcifz3D0Klk'
+SLACK_APP_TOKEN = os.getenv("SLACK_APP_TOKEN")  # 'xapp-1-A054EV99984371-51fdf52f1b9eb033deb3bcb3ee4100c3225cd215bb0299d13b8445a129dc9de2'
 
 chatGPT_APIKEY = os.getenv("chatGPT_APIKEY")
-BOT_ID = os.getenv("BOT_ID")
-PROXY = os.getenv("PROXY")
+BOT_ID = os.getenv("BOT_ID") # 'U053TPAK1JQ'
+PROXY = os.getenv("BOT_ID") # "http://192.168.10.124:10802"
